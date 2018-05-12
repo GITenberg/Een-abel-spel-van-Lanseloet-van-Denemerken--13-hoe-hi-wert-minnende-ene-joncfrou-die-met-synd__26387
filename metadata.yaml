@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '31968'
     url: http://www.gutenberg.org/2009/agents/31968
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26387#Een-abel-spel-van-Lanseloet-van-Denemerken--13-hoe-hi-wert-minnende-ene-joncfrou-die-met-synd_
 gutenberg_issued: '2008-08-21'
 gutenberg_type: Text
 identifiers:
